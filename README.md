@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vusumzi best called @spaceman-vusumzi
 - 👀 I’m interested in Mobile & Desktop App Development and Data Analysis
-- 🌱 I’m currently studying for a diploma in IT
+- 🌱 I’m currently studying for an advanced diploma in IT
 - 💞️ I’m looking to collaborate on various Java Programs with Python Integration. Specifically in AI
 - 📫 You may use my email address to contact me.
 
