@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Vusumzi best called @spaceman-vusumzi
-- 👀 I’m interested in Mobile & Desktop App Development and Data Analysis
-- 🌱 I’m currently studying for an advanced diploma in IT
-- 💞️ I’m looking to collaborate on various Java Programs with Python Integration. Specifically in AI
+- 👋 Hi, I’m Vusumzi best called Vusi
+- 👀 I’m interested in Software Testing, PowerApps App development, RPA Development, Java Programming and Python programming
+- 🌱 I’m currently studying for an advanced diploma in IT and an Intern for one of South Africa's leading companies.
+- 💞️ I’m looking to collaborate on various Maven projects, Selenium frameworks development, UFT frameworks development, RPA projects. CI/CD with tools such as Azure DevOps. PowerApps canvas apps.
 - 📫 You may use my email address to contact me.
 
 <!---
