@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vusumzi best called Vusi
 - 👀 I’m interested in Software Testing, PowerApps App development, RPA Development, Java Programming and Python programming
-- 🌱 I’m currently studying for an advanced diploma in IT and an Intern for one of South Africa's leading companies.
-- 💞️ I’m looking to collaborate on various Maven projects, Selenium frameworks development, UFT frameworks development, RPA projects. CI/CD with tools such as Azure DevOps. PowerApps canvas apps.
+- 🌱 I’m currently working for one of South Africa's leading companies as a Power Platform Developer.
+- 💞️ I’m looking to collaborate on various Maven projects, Selenium frameworks development, UFT frameworks development, RPA projects. CI/CD with tools such as Azure DevOps and the Power Platform as a whole.
 - 📫 You may use my email address to contact me.
 
 <!---
